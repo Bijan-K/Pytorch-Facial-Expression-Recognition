@@ -19,7 +19,7 @@ model.classifier = nn.Sequential(
     nn.Linear(in_features=1408, out_features=7),
 )
 
-
+# Inference mode
 for param in model.parameters():
    param.requires_grad = False
 
