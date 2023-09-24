@@ -1,5 +1,5 @@
 # Pytorch-Facial-Expression-Recognition
-This trained model recevies a colorful or grey image of an face and predicts emotion portays in it.
+This trained model recevies a colorful or grey image of an face and predicts emotion portrays in it.
 
 The availbe emotions are:
 - Happy
